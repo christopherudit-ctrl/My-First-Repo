@@ -53,12 +53,10 @@ Merged tutorial-branch into main.
 
 Screenshot taken showing merged status, collaborator approval, repo name, and username.
 
-Branch deleted automatically after merge.
-
 Public access:
 
 Verified repository is publicly accessible.
 
 Anyone with the link can view the merged changes.
 
-Accidentally deleted the branch didn't read the headings properly but screenshots are there as proof.
+Accidentally deleted the branch didn't read the headings properly but screenshots are there as proof. there might be a lot of missing parts , firts time using Github.
