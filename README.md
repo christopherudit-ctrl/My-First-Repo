@@ -13,3 +13,7 @@ Merged the branch into main and verified Repo is Public for Viewing purposes.
 Accidentally deleted the branch cause i didn't read the page properly but provided screenshots the branch did exist in the document to be uploaded.
 
 Note: My original collaborator wasn’t available, so my sister helped review the PR and approve it. She is a student at the University of Guyana as well just not a member of the ITE 1100 class.
+
+Nmaes of Collaborators:
+Christopher Udit - USI - 1015624
+Lisa Udit - USI -1034158
