@@ -1,62 +1,15 @@
-A Tutorial Github file, used for getting accquainted with Git
-Steps I took to complete this activity:
+A Tutorial Github file, used for getting accquainted with Git, involves creating a local git repository and getting acquainted with the processes on Github.
 
-Created repository and files
+Steps taken to complete this Tutorial :
 
-Made a new repo called MyFirstRepo on GitHub.
+Created a local repository and added a simple python file.
+Tried using Git Bash to commit and push the file.
+Uploaded the file directly to GitHub after running into some push errors.
+Added someone as collaborator.
+Created a new branch, edited the python file and committed the changes made.
+opened a pull request and had the collaborator review it and approve it.
+Merged the branch into main and verified Repo is Public for Viewing purposes.
 
-Uploaded hello world.py and a README file.
+Accidentally deleted the branch cause i didn't read the page properly but provided screenshots the branch did exist in the document to be uploaded.
 
-Tried to do the Git Bash workflow
-
-Initialized a local repo on my computer.
-
-Configured Git with my username and email.
-
-Created and committed hello world.py.
-
-Tried pushing to GitHub, but ran into authentication errors.
-
-Screenshot included showing Git Bash attempt.
-
-Uploaded files directly on GitHub
-
-Uploaded hello world.py and README online.
-
-Verified files appeared on main.
-
-Added collaborator
-
-Invited someone as a collaborator.
-
-They accepted the invitation.
-
-Created new branch
-
-Named the branch New-branch.
-
-Edited hello world.py on this branch.
-
-Committed the change directly on GitHub.
-
-Pull Request (PR) and review :
-
-Opened a PR from tutorial-branch to main.
-
-Assigned collaborator as reviewer.
-
-Collaborator approved PR and left a comment like “Looks good to me!”
-
-Merged branch
-
-Merged tutorial-branch into main.
-
-Screenshot taken showing merged status, collaborator approval, repo name, and username.
-
-Public access:
-
-Verified repository is publicly accessible.
-
-Anyone with the link can view the merged changes.
-
-Accidentally deleted the branch didn't read the headings properly but screenshots are there as proof. there might be a lot of missing parts , firts time using Github.
+Note: My original collaborator wasn’t available, so my sister helped review the PR and approve it. She is a student at the University of Guyana as well just not a member of the ITE 1100 class.
